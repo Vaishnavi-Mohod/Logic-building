@@ -1,0 +1,21 @@
+q1. value of i is greater than 5 therefore, conition is false.loop will not execute.
+
+q3. 10
+
+q4. int number =10;
+    for(number =10; number<15;number++);
+        {
+          System.out.println("*");
+        }
+
+q7. it will print user enter number.if user enter 0 condition will be false and it will not  print anything.
+
+
+q8. it will print Hello+name
+
+q10. In this code datatype of i is not define and in if condition we have to use == operator to check conditin.
+t will print
+
+q12. we have to enter value of i.then if one of the condition is satisfied in if statement then  value of i will  print.
+
+
